@@ -1,0 +1,68 @@
+.main {
+    text-align: center;
+    padding: 40px;
+    margin-top: -10px;
+    border-bottom: 1px solid #df6666;
+}
+
+.main2 {
+    background-color: rgb(65, 33, 33);
+}
+
+body {
+    background-color: rgb(59, 21, 21);
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    padding: 20px;
+}
+
+.leftbox {
+    width: 68%;
+    float: left;
+    background: #f0abab;
+}
+
+.image1 {
+    padding: 0px;
+    height: 160px;
+}
+
+.image2 {
+    padding: 0px;
+    height: 50px;
+}
+
+.leftboxcontent {
+    padding: 20px;
+}
+
+.middlespace {
+    width: 3%;
+    float: left;
+}
+
+.rightbox {
+    width: 25%;
+    float: left;
+}
+
+.rightboxcontent1 {
+    background-color: #e97070;
+    width: 100%;
+}
+
+.rightboxcontent1a {
+    padding: 20px;
+}
+
+.rightboxcontent2 {
+    background-color: #ee7474;
+    width: 100%;
+}
+
+.rightboxcontent2a {
+    padding: 20px;
+}

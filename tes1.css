@@ -1,0 +1,70 @@
+.main {
+    text-align: center;
+    padding: 40px;
+    margin-top: -10px;
+    border-bottom: 1px solid #DDDDDD;
+}
+
+.main2 {
+    background-color: rgb(243, 122, 213);
+}
+
+body {
+    background-color: rgb(192, 228, 107);
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    padding: 20px;
+}
+
+.leftbox {
+    width: 68%;
+    float: left;
+    background: #47e25c;
+}
+
+.image1 {
+    padding: 0px;
+
+    height: 160px;
+}
+
+.image2 {
+    padding: 0px;
+
+    height: 50px;
+}
+
+.leftboxcontent {
+    padding: 20px;
+}
+
+.middlespace {
+    width: 3%;
+    float: left;
+}
+
+.rightbox {
+    width: 25%;
+    float: left;
+}
+
+.rightboxcontent1 {
+    background-color: #cfdf44;
+    width: 100%;
+}
+
+.rightboxcontent1a {
+    padding: 20px;
+}
+
+.rightboxcontent2 {
+    background-color: #40b2df;
+    width: 100%;
+}
+
+.rightboxcontent2a {
+    padding: 20px;
+}
